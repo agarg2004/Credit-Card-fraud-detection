@@ -40,11 +40,12 @@ The dataset used is "https://www.kaggle.com/datasets/arslanali4343/credit-card-c
 ## 📊 Results
 
 Example output from the model:
-
-**KNN Model:**
+**Decision Tree:**
 ![Screenshot 2025-04-05 165643](https://github.com/user-attachments/assets/9a4455ab-c41c-4eca-af1e-511c8b2363d8)
 
-**Decision Tree:**
+
+
+**KNN Model:**
 ![Screenshot 2025-04-05 165654](https://github.com/user-attachments/assets/50b981e0-af21-4ff7-9db6-964d84299f17)
 
 **Random forst**
