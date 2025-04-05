@@ -41,3 +41,10 @@ The dataset used is "https://www.kaggle.com/datasets/arslanali4343/credit-card-c
 
 Example output from the model:
 
+
+![Screenshot 2025-04-05 165643](https://github.com/user-attachments/assets/9a4455ab-c41c-4eca-af1e-511c8b2363d8)
+![Screenshot 2025-04-05 165654](https://github.com/user-attachments/assets/50b981e0-af21-4ff7-9db6-964d84299f17)
+![Screenshot 2025-04-05 165632](https://github.com/user-attachments/assets/65431d7b-cbec-4b3c-9dad-d29d0555c817)
+
+The random forest model gives the best results with the highest accuracy as well as recall.
+
